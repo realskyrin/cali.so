@@ -6,7 +6,7 @@ import React from 'react'
 
 import image1 from '~/assets/highlights/highlight-compose.png'
 import image2 from '~/assets/highlights/highlight-controller.jpg'
-import image3 from '~/assets/highlights/highlight-top.jpg'
+import image3 from '~/assets/highlights/highlight-top.jpeg'
 
 const images = [image1, image2, image3]
 const alts = [
